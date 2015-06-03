@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>5B3C6560-5764-430A-8B12-6DBA9D7516D4</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>LightOJ 1179</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>A05F1B9E531E51BD75A1510B8D557781FBDE7292</key>
 		<string>https://github.com/ShawonAshraf/LightOJ.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Lightoj/LightOJ 1179/LightOJ 1179.xcodeproj/project.xcworkspace</string>
+	<string>Lightoj/LightOJ 1179/LightOJ 1179.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>A05F1B9E531E51BD75A1510B8D557781FBDE7292</key>

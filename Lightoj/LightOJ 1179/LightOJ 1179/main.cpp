@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -22,11 +21,12 @@ int main() {
         int x = 0;
         while (numberOfSurvivors(v, index) != 1) {
             x += (k - 1);
-            //v.erase(v.begin() + x);
             v.at(x) = 0;
         }
         
         cout << "Index of the last man standing : " << index << endl;
+        
+        v.clear();
     }
     
     return 0;
