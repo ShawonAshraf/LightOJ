@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		035134901ACDAE07005ECE25 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0351348F1ACDAE07005ECE25 /* main.cpp */; };
+		03FC316D1BFCE53A0014ADCC /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 03FC316C1BFCE53A0014ADCC /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		0351348A1ACDAE07005ECE25 /* CopyFiles */ = {
+		03FC31671BFCE53A0014ADCC /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,12 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0351348C1ACDAE07005ECE25 /* LightOJ 1148 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "LightOJ 1148"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0351348F1ACDAE07005ECE25 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		03FC31691BFCE53A0014ADCC /* LightOJ 1140 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "LightOJ 1140"; sourceTree = BUILT_PRODUCTS_DIR; };
+		03FC316C1BFCE53A0014ADCC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		035134891ACDAE07005ECE25 /* Frameworks */ = {
+		03FC31661BFCE53A0014ADCC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,94 +38,94 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		035134831ACDAE07005ECE25 = {
+		03FC31601BFCE53A0014ADCC = {
 			isa = PBXGroup;
 			children = (
-				0351348E1ACDAE07005ECE25 /* LightOJ 1148 */,
-				0351348D1ACDAE07005ECE25 /* Products */,
+				03FC316B1BFCE53A0014ADCC /* LightOJ 1140 */,
+				03FC316A1BFCE53A0014ADCC /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		0351348D1ACDAE07005ECE25 /* Products */ = {
+		03FC316A1BFCE53A0014ADCC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0351348C1ACDAE07005ECE25 /* LightOJ 1148 */,
+				03FC31691BFCE53A0014ADCC /* LightOJ 1140 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0351348E1ACDAE07005ECE25 /* LightOJ 1148 */ = {
+		03FC316B1BFCE53A0014ADCC /* LightOJ 1140 */ = {
 			isa = PBXGroup;
 			children = (
-				0351348F1ACDAE07005ECE25 /* main.cpp */,
+				03FC316C1BFCE53A0014ADCC /* main.cpp */,
 			);
-			path = "LightOJ 1148";
+			path = "LightOJ 1140";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0351348B1ACDAE07005ECE25 /* LightOJ 1148 */ = {
+		03FC31681BFCE53A0014ADCC /* LightOJ 1140 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 035134931ACDAE07005ECE25 /* Build configuration list for PBXNativeTarget "LightOJ 1148" */;
+			buildConfigurationList = 03FC31701BFCE53A0014ADCC /* Build configuration list for PBXNativeTarget "LightOJ 1140" */;
 			buildPhases = (
-				035134881ACDAE07005ECE25 /* Sources */,
-				035134891ACDAE07005ECE25 /* Frameworks */,
-				0351348A1ACDAE07005ECE25 /* CopyFiles */,
+				03FC31651BFCE53A0014ADCC /* Sources */,
+				03FC31661BFCE53A0014ADCC /* Frameworks */,
+				03FC31671BFCE53A0014ADCC /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "LightOJ 1148";
-			productName = "LightOJ 1148";
-			productReference = 0351348C1ACDAE07005ECE25 /* LightOJ 1148 */;
+			name = "LightOJ 1140";
+			productName = "LightOJ 1140";
+			productReference = 03FC31691BFCE53A0014ADCC /* LightOJ 1140 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		035134841ACDAE07005ECE25 /* Project object */ = {
+		03FC31611BFCE53A0014ADCC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0610;
+				LastUpgradeCheck = 0710;
 				ORGANIZATIONNAME = "Shawon Ashraf";
 				TargetAttributes = {
-					0351348B1ACDAE07005ECE25 = {
-						CreatedOnToolsVersion = 6.1.1;
+					03FC31681BFCE53A0014ADCC = {
+						CreatedOnToolsVersion = 7.1.1;
 					};
 				};
 			};
-			buildConfigurationList = 035134871ACDAE07005ECE25 /* Build configuration list for PBXProject "LightOJ 1148" */;
+			buildConfigurationList = 03FC31641BFCE53A0014ADCC /* Build configuration list for PBXProject "LightOJ 1140" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 035134831ACDAE07005ECE25;
-			productRefGroup = 0351348D1ACDAE07005ECE25 /* Products */;
+			mainGroup = 03FC31601BFCE53A0014ADCC;
+			productRefGroup = 03FC316A1BFCE53A0014ADCC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0351348B1ACDAE07005ECE25 /* LightOJ 1148 */,
+				03FC31681BFCE53A0014ADCC /* LightOJ 1140 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		035134881ACDAE07005ECE25 /* Sources */ = {
+		03FC31651BFCE53A0014ADCC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				035134901ACDAE07005ECE25 /* main.cpp in Sources */,
+				03FC316D1BFCE53A0014ADCC /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		035134911ACDAE07005ECE25 /* Debug */ = {
+		03FC316E1BFCE53A0014ADCC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -142,30 +142,33 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
 				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 			};
 			name = Debug;
 		};
-		035134921ACDAE07005ECE25 /* Release */ = {
+		03FC316F1BFCE53A0014ADCC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -182,31 +185,33 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				COPY_PHASE_STRIP = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
 			};
 			name = Release;
 		};
-		035134941ACDAE07005ECE25 /* Debug */ = {
+		03FC31711BFCE53A0014ADCC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		035134951ACDAE07005ECE25 /* Release */ = {
+		03FC31721BFCE53A0014ADCC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -216,24 +221,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		035134871ACDAE07005ECE25 /* Build configuration list for PBXProject "LightOJ 1148" */ = {
+		03FC31641BFCE53A0014ADCC /* Build configuration list for PBXProject "LightOJ 1140" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				035134911ACDAE07005ECE25 /* Debug */,
-				035134921ACDAE07005ECE25 /* Release */,
+				03FC316E1BFCE53A0014ADCC /* Debug */,
+				03FC316F1BFCE53A0014ADCC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		035134931ACDAE07005ECE25 /* Build configuration list for PBXNativeTarget "LightOJ 1148" */ = {
+		03FC31701BFCE53A0014ADCC /* Build configuration list for PBXNativeTarget "LightOJ 1140" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				035134941ACDAE07005ECE25 /* Debug */,
-				035134951ACDAE07005ECE25 /* Release */,
+				03FC31711BFCE53A0014ADCC /* Debug */,
+				03FC31721BFCE53A0014ADCC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 035134841ACDAE07005ECE25 /* Project object */;
+	rootObject = 03FC31611BFCE53A0014ADCC /* Project object */;
 }
